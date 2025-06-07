@@ -32,7 +32,7 @@ Este projeto utiliza uma rede neural LSTM para prever o próximo preço de fecha
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/DouglasFerreiraDePaula/Tech-challenge-4.git
 cd nome-do-repositorio
 ```
 
